@@ -6,6 +6,7 @@ body {
 
 /* the styles for the header */
 header img {
+	height: 80px;
 	float: left;
 }
 
